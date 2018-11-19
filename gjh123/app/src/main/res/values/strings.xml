@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_a2048">a2048</string>
+</resources>
